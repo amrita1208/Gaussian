@@ -12,13 +12,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 2.Use gaussian elimination  
  
 ## Program:
-```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: M.AMRITA
 RegisterNumber: 25011865
-*/
-`import numpy as np
+
+import numpy as np
 
 import sys
 
@@ -66,7 +65,8 @@ for i in range(n):
 
 ## Output:
 
-<img width="763" height="445" alt="image" src="https://github.com/user-attachments/assets/f319748c-44c9-4d90-b24d-82bdc7472182" />
+<img width="757" height="448" alt="image" src="https://github.com/user-attachments/assets/8ce65aab-56bb-4400-8b35-7ac5e677cf73" />
+
 
 
 ## Result:
